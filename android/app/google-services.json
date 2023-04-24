@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1060835797994",
+    "project_id": "xactitude-attendance",
+    "storage_bucket": "xactitude-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060835797994:android:7a6937a64442b21d622093",
+        "android_client_info": {
+          "package_name": "com.example.ftest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060835797994-gbjhpdls4me8khqnekmu5bk98v26583a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa44OqVgP7I_mxsPOGhodCapbeRrHgfxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060835797994-gbjhpdls4me8khqnekmu5bk98v26583a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060835797994-d8ffn8pcjku7f7fmvq1ni698umogh1vo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ftest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
